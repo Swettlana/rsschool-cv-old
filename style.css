@@ -1,0 +1,17 @@
+.heading-head {
+    font-weight: bold;  
+    color: rgb(4, 92, 51); 
+    text-align: center;
+    font-size: 50 px;
+   }
+.center-img {
+   height: 100:
+   width: 85;
+   display:block;
+   margin: auto;
+}
+.block {
+    text-align: center;
+    font-size: 16px;
+    color:rgb(2, 2, 56);    
+}
